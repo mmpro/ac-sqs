@@ -3,7 +3,7 @@
   "author": "Mark Poepping (https://www.admiralcloud.com)",
   "license": "MIT",
   "repository": "mmpro/ac-sqs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {
     "async": "^3.1.0",
     "aws-sdk": "^2.544.0",
